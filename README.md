@@ -36,14 +36,14 @@ REQUISITOS:
 - node instalado
 - npm instalado
 
-PASSO-A-PASSO:
-1- Executar os seguintes comandos dentro da pasta do projeto no terminal:
-    - npm init
-    - npm install express
-    - npm install body-parser
-    - npm install https
-    - npm install dotenv
-2- Para iniciar o projeto: npm app.js ou nodemon app.js (caso tenha instalado)
+PASSO-A-PASSO: <br>
+1- Executar os seguintes comandos dentro da pasta do projeto no terminal:<br>
+    - npm init<br>
+    - npm install express<br>
+    - npm install body-parser<br>
+    - npm install https<br>
+    - npm install dotenv<br>
+2- Para iniciar o projeto: npm app.js ou nodemon app.js (caso tenha instalado)<br>
 
 OBSERVAÇÕES: 
 - O sistema foi rodado apenas localmente. O caminho PORT do .env.example diz respeito à porta local do sistema local escolhido. Já o caminho APPID_OPENWEATHERMAP diz respeito à chave única gerada pela API openweathermap para acesso aos seus servidores. 
