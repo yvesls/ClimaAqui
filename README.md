@@ -42,6 +42,7 @@ PASSO-A-PASSO: <br>
     - npm install express<br>
     - npm install body-parser<br>
     - npm install https<br>
+    - npm install path<br>
     - npm install dotenv<br>
 2- Para iniciar o projeto: npm app.js ou nodemon app.js (caso tenha instalado)<br>
 
