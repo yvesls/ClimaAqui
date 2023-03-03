@@ -46,7 +46,7 @@ PASSO-A-PASSO: <br>
 2- Para iniciar o projeto: npm app.js ou nodemon app.js (caso tenha instalado)<br>
 
 OBSERVAÇÕES: 
-- O sistema foi rodado apenas localmente. O caminho PORT do .env.example diz respeito à porta local do sistema local escolhido. Já o caminho APPID_OPENWEATHERMAP diz respeito à chave única gerada pela API openweathermap para acesso aos seus servidores. 
+- O sistema foi rodado apenas localmente. O caminho PORT do .env.example diz respeito à porta do localhost escolhida. Já o caminho APPID_OPENWEATHERMAP diz respeito à chave única gerada pela API openweathermap para acesso aos seus servidores. 
 
 <br> 
 
